@@ -1,2 +1,2 @@
-# Recipe_Application
+# Recipe-Application
 Application with a lot of recipes(pizza, pasta...)
